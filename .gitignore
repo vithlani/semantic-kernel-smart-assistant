@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Environment variables (IMPORTANT!)
+.env
+*.env
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Visual Studio cache
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
